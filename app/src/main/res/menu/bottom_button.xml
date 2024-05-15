@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="行事曆"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:id="@+id/calendar"/>
+    <item android:title="代辦事項"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:id="@+id/todolist"/>
+</menu>
